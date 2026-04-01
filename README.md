@@ -68,7 +68,8 @@ Visit `http://localhost:5000` (or the specified port).
 
 ## 🖥️ Frontend  
 - Developed in **HTML, CSS, JavaScript**  
-- Hosted on **GitHub Pages** for easy access and sharing.  
+- Hosted on **GitHub Pages** for easy access and sharing.
+- Check out the Front-end! : https://harshikamittal07-create.github.io/Syntra/
 
 ---
 
