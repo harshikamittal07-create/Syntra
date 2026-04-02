@@ -5,11 +5,11 @@
 **A Brainwave-to-Emotion Translator for Non-Verbal Communication**  
 
 *A compassionate AI system bridging the gap between unspoken needs and caregivers.*  
-Built for United Hacks V6 - Human Interaction & Assistive Technology Track
 
 **Stack:** Python, NumPy, scikit-learn, Flask, HTML, CSS, JavaScript  
 **Hosting:** GitHub Pages (Frontend) | Lightweight Flask Backend  
-
+**Documentation -** https://drive.google.com/file/d/17NUdlz997Jn3qHk5OFmOFtkhTJbDa2op/view?usp=sharing
+**Deployed link - https://harshikamittal07-create.github.io/Syntra/
 ---
 
 ## 💡 About The Project  
