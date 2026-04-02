@@ -10,7 +10,8 @@
 **Hosting:** GitHub Pages (Frontend) | Lightweight Flask Backend  
 **Documentation -** https://drive.google.com/file/d/17NUdlz997Jn3qHk5OFmOFtkhTJbDa2op/view?usp=sharing
 
-**Deployed link - https://harshikamittal07-create.github.io/Syntra/
+**Deployed link -** https://harshikamittal07-create.github.io/Syntra/
+
 ---
 
 ## 💡 About The Project  
